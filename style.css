@@ -1,0 +1,77 @@
+body{
+  background:#007AFF;
+  align-items: center;
+  justify-content: center;
+  padding: inherit;
+}
+
+img{
+  position: relative;
+  left: 12px;
+  top: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+::placeholder{
+  opacity: 50%;
+}
+
+section div{
+  position: relative;
+  background: white;
+  width: 130px;
+  height: 40px;
+  margin-left: 350px;
+  border: 1px;
+  border-radius: 10px;
+  top: -10px;
+}
+
+section label{
+  position: relative;
+  background: white;
+  width: 150px;
+  height: 40px;
+  margin-left: 30px;
+  border: 1px;
+  border-radius: 10px;
+  top: 12px;
+}
+
+h1{
+  color: white;
+  top:20px;
+  padding-left:350px;
+}
+
+p{
+  color: white;
+  opacity: 80%;
+  font-size: 25px;
+  padding-left: 350px;
+}
+
+input{
+  background: white;
+
+  position: relative;
+  margin-left: 95px;
+  border: 0px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  height: 38px;
+  width: 100px;
+  top: -18px;
+}
+
+ button{
+   position: relative;
+   right: -560px;
+   height:40px;
+   width: 180px;
+   top: -50px;
+   border: 1px;
+   border-radius: 20px;
+   background: #ffe5b4;
+ }
